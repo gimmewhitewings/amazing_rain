@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Rain:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Rain_jar</output-path>
+    <root id="archive" name="Rain.jar">
+      <element id="module-output" name="Rain" />
+    </root>
+  </artifact>
+</component>
